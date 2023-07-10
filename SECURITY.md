@@ -1,4 +1,4 @@
-# Security
+report #Security
 
 ## Reporting Security Issues
 
